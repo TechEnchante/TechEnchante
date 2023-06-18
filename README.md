@@ -6,6 +6,7 @@ As a passionate technologist, I am constantly enchanted by the transformative ca
 [![Certified Scrum Master](https://img.shields.io/badge/Scrum-Master-4285F4?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
 [![Red Hat Certified System Administrator](https://img.shields.io/badge/Red_Hat-Certified_System_Administrator-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/certification/rhcsa)
 [![Atlassian Data Center Certification](https://img.shields.io/badge/Atlassian-Data_Center_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/enterprise/data-center-certification)
+[![Atlassian Cloud Certification](https://img.shields.io/badge/Atlassian-Cloud_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/university/certification/certifications)
 
 ## Technical Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
