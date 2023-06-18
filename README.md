@@ -16,7 +16,7 @@ As a passionate technologist, I am constantly enchanted by the transformative ca
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ## Aspirations for the Future 🌱
-On my journey of continuous learning, I'm gearing up to explore **Node.JS** next. Additionally, I'm currently preparing for the [Azure Administrator Associate AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) from Microsoft and the [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp) certification from PMI. I'm excited to say that my hours have already been signed off on for the PMP!
+On my journey of continuous learning, I'm gearing up to explore **Node.JS** next. Additionally, I'm currently preparing for the [Azure Administrator Associate AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) certification from Microsoft and the [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp) certification from PMI. I'm excited to say that my hours have already been signed off on for the PMP!
 
 ## Connect with me 📬
 Whether you're interested in collaboration or simply have a question, don't hesitate to reach out. Let's drive the magic of technology together! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adamrobertspopescu/).
