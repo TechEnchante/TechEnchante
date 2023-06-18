@@ -8,7 +8,7 @@ As a passionate technologist, I am constantly enchanted by the transformative ca
 [![Atlassian Data Center Certification](https://img.shields.io/badge/Atlassian-Data_Center_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/enterprise/data-center-certification)
 [![Atlassian Cloud Certification](https://img.shields.io/badge/Atlassian-Cloud_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/university/certification/certifications)
 
-## Technical Skills 🛠️## Technical Skills 🛠️
+## Technical Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
