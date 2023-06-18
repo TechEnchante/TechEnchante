@@ -1,3 +1,5 @@
+![Twinkling Stars](https://media.giphy.com/media/FlodpfQUBSp20/giphy.gif)
+
 # Hello, I'm [Techenchante](https://github.com/techenchante) 👋
 
 I'm a passionate technologist, enchanted by the capabilities of coding and automation. I'm experienced in working with **Python**, **Bash**, and **Powershell**. I love taking on small projects and automating tasks to streamline efficiency. 
