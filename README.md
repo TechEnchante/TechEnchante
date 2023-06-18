@@ -1,4 +1,3 @@
-![Twinkling Stars](https://media.giphy.com/media/FlodpfQUBSp20/giphy.gif)
 
 # Hello, I'm [Techenchante](https://github.com/techenchante) 👋
 
