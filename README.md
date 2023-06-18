@@ -16,4 +16,4 @@ I'm a passionate technologist, enchanted by the capabilities of coding and autom
 In the near future, I'm planning to explore **Node.JS** to expand my toolkit. I'm also studying to earn the [Azure Administrator Associate AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) certification and the [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp) certification from PMI. 
 
 ## Get in touch 📬
-Feel free to reach out to me if you're interested in collaborating on a project, or if you have any questions or suggestions. You can also find me on [LinkedIn](#) (replace `#` with your LinkedIn profile URL).
+Feel free to reach out to me if you're interested in collaborating on a project, or if you have any questions or suggestions. You can also find me on [LinkedIn](https://www.linkedin.com/in/adamrobertspopescu/).
