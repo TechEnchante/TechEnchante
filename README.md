@@ -8,10 +8,12 @@ As a passionate technologist, I am constantly enchanted by the transformative ca
 [![Atlassian Data Center Certification](https://img.shields.io/badge/Atlassian-Data_Center_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/enterprise/data-center-certification)
 [![Atlassian Cloud Certification](https://img.shields.io/badge/Atlassian-Cloud_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://www.atlassian.com/university/certification/certifications)
 
-## Technical Skills 🛠️
+## Technical Skills 🛠️## Technical Skills 🛠️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ## Aspirations for the Future 🌱
 On my journey of continuous learning, I'm gearing up to explore **Node.JS** next. Additionally, I'm currently preparing for the [Azure Administrator Associate AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) and the [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp) certifications from PMI. I'm excited to say that my hours have already been signed off for the PMP!
