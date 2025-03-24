@@ -1,6 +1,6 @@
 # Welcome, I'm [TechEnchante](https://github.com/techenchante), also known as Adam 👋
 
-As a passionate technologist, I am constantly enchanted by the transformative capabilities of coding and automation. With a solid background in **Python**, **Bash**, and **Powershell**, I find joy in taking up small projects and building automation scripts that streamline efficiency and productivity.
+As a passionate technologist, I am constantly enchanted by the transformative capabilities of coding and automation. With a solid background in **Python**, **Bash**, and **Powershell**, I find joy in taking up small projects and building automation scripts that streamline efficiency and productivity. Sadly, I do not get much time to contribute to personal projects anymore. 
 
 ## Certifications 🎖️
 [![Certified Scrum Master](https://img.shields.io/badge/Scrum-Master-4285F4?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
