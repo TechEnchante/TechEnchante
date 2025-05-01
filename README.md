@@ -40,7 +40,7 @@ Though personal project time is scarce, I continue to tinker with:
 ---
 
 ## Certifications in Progress 🎖️
-[![Offensive Security Certified Expert (OSCE3)](https://img.shields.io/badge/Offensive_Security-OSCE3-black?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offsec.com/certifications/osce3/)
+[![Offensive Security Certified Expert (OSCE3)](https://img.shields.io/badge/Offensive_Security-OSCE3-black?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offsec.com/certificates/osce3/)
 [![ITIL 4 Foundation](https://img.shields.io/badge/ITIL-4_Foundation-5A5A5A?style=for-the-badge&logo=Axelos&logoColor=white)](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
 
 ---
