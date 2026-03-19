@@ -19,6 +19,8 @@ Though personal project time is scarce, I continue to tinker with:
 [![Red Hat Certified System Administrator](https://img.shields.io/badge/Red_Hat-Certified_System_Administrator-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/en/services/certification/rhcsa)
 [![Atlassian Data Center Certification](https://img.shields.io/badge/Atlassian-Data_Center_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://university.atlassian.com/student/page/837225-acp-100-jira-administration-for-data-center-and-server-exam)
 [![Atlassian Cloud Certification](https://img.shields.io/badge/Atlassian-Cloud_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://university.atlassian.com/student/activity/832603-acp-120-jira-administration-for-cloud-exam)
+[![Offensive Security Certified Expert (OSCE3)](https://img.shields.io/badge/Offensive_Security-OSCE3-black?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offsec.com/certificates/osce3/)
+[![ITIL 4 Foundation](https://img.shields.io/badge/ITIL-4_Foundation-5A5A5A?style=for-the-badge&logo=Axelos&logoColor=white)](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
 
 ---
 
@@ -40,8 +42,6 @@ Though personal project time is scarce, I continue to tinker with:
 ---
 
 ## Certifications in Progress 🎖️
-[![Offensive Security Certified Expert (OSCE3)](https://img.shields.io/badge/Offensive_Security-OSCE3-black?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offsec.com/certificates/osce3/)
-[![ITIL 4 Foundation](https://img.shields.io/badge/ITIL-4_Foundation-5A5A5A?style=for-the-badge&logo=Axelos&logoColor=white)](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
 
 ---
 
