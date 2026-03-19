@@ -21,6 +21,7 @@ Though personal project time is scarce, I continue to tinker with:
 [![Atlassian Cloud Certification](https://img.shields.io/badge/Atlassian-Cloud_Certified-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://university.atlassian.com/student/activity/832603-acp-120-jira-administration-for-cloud-exam)
 [![Offensive Security Certified Expert (OSCE3)](https://img.shields.io/badge/Offensive_Security-OSCE3-black?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offsec.com/certificates/osce3/)
 [![ITIL 4 Foundation](https://img.shields.io/badge/ITIL-4_Foundation-5A5A5A?style=for-the-badge&logo=Axelos&logoColor=white)](https://www.axelos.com/certifications/itil-certifications/itil-foundation)
+[![Project Management Professional](https://img.shields.io/badge/PMI-PMP-005F9E?style=for-the-badge&logo=pmi&logoColor=white)](https://www.pmi.org/certifications/types/project-management-pmp)
 
 ---
 
@@ -36,7 +37,6 @@ Though personal project time is scarce, I continue to tinker with:
 ---
 
 ## Aspirations for the Future 🌱
-- [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp) *(hours already signed off!)*
 - Deepening my skills in **AI agents**, **vector databases**, and **offensive security scripting**
 
 ---
